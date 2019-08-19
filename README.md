@@ -1,2 +1,2 @@
 # my-games
-Games developed by me in college 
+Games developed by me
